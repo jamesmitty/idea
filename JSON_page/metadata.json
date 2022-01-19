@@ -1,9 +1,5 @@
-<html>
-    <head> </head>
-    <body>
-        <pre style = 'word-wrap: break-word; white-space: pre-wrap;'>
-            {
-                "attributes" : [ {
+
+             { "attributes" : [ {
                   "trait_type" : "Legendary",
                   "value" : "1"
                 }, {
@@ -14,8 +10,4 @@
                 "image" : "https://gateway.pinata.cloud/ipfs/QmTWuukxX79DzUMqnH8W81RzGLJRdLa2mVGoGS7n2ZvGKD",
                 "name" : "Star Wars"
             }
-        </pre>
-            
-
-    </body>
-</html>
+        
